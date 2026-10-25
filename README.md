@@ -145,5 +145,5 @@ Memindahkan folder lab5_javascrpt ke folder Lab5Web menggunakan perintah `mv`.
   ![Git Push](/lab5_javascript/img/image-39.png)
 
 - **Hasil push ke github**
-  ![Git Push](/lab5_javascript/img/image-35.png)
+  ![Git Push](/lab5_javascript/img/image-43.png)
 
